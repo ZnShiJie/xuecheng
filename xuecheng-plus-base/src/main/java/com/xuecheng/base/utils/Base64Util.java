@@ -1,6 +1,7 @@
 package com.xuecheng.base.utils;
 
 /**
+ * @author xinxj
  * Base64 工具类
  */
 public class Base64Util {
